@@ -5,7 +5,9 @@
 
 
 
-## Demo
+## curriculum
+
+9.16 앞으로의 일정 계획하기
 
 
 ## MEMBERS
